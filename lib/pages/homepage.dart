@@ -51,9 +51,9 @@ class HomePage extends StatelessWidget {
             begin: Alignment.topRight,
             end: Alignment.bottomRight,
             colors: [
-              Colors.white,
-              Colors.yellow,
-              Colors.blue,
+               Color.fromARGB(255, 87, 165, 229),
+              Color.fromARGB(255, 99, 169, 226),
+              Color.fromARGB(255, 178, 203, 224),
             ],
           )),
           child: Padding(
